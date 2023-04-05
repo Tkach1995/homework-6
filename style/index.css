@@ -85,6 +85,28 @@ a {
     margin-left: 22px;
 }
 
+.flex-container p {
+    color: #FFFFFF;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+
+}
+
+.image-container {
+    margin-right: 20px;
+}
+
+.text-container {
+    flex: 1;
+}
+
 .section4 {
     padding-top: 114px;
     padding-bottom: 100px;
